@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jmtes/dom-to-image-sandbox/issues"
   },
-  "homepage": "https://github.com/jmtes/dom-to-image-sandbox#readme"
+  "homepage": "https://github.com/jmtes/dom-to-image-sandbox#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
 }
