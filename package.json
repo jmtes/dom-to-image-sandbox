@@ -1,0 +1,19 @@
+{
+  "name": "dom-to-image-sandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmtes/dom-to-image-sandbox.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmtes/dom-to-image-sandbox/issues"
+  },
+  "homepage": "https://github.com/jmtes/dom-to-image-sandbox#readme"
+}
