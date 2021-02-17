@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "parcel index.html",
+    "dev": "parcel index.html --https",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -22,6 +22,7 @@
   },
   "dependencies": {
     "dom-to-image": "^2.6.0",
+    "dom-to-image-more": "^2.8.0",
     "html2canvas": "^1.0.0-rc.7"
   }
 }
